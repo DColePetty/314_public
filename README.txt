@@ -10,6 +10,7 @@
 2. navigate to the sprint2/sprint3 directory which holds the jsons and copy the python and sh files for trip or distance to where respective jsons are located
 3. run ./run_trip.sh or ./run_distance.sh respectively. 
   >You will see some requests scroll by, do not worry unless you receive an error.
+  >You may have to run the commands "chmod +x run_trip.sh" to add execution priviledges to the bash script.
 4. open trip_output.txt or distance_output.txt in your preferred text editor.
 
 Caveats:
